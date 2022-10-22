@@ -6,7 +6,7 @@
 ## ✅ Step 1: Specify the Main Design Challenge
 
 #### What is the main activity your project would support the users in accomplishing?  
-* This project will support users in tracking books they read, as well as finding books they want to read. 
+* This project will promote efficiency for user sustainability efforts through the consolidation of a a variety of services. 
 
 #### What is the basic need involved for that activity? 
 * This activity fulfills the user’s esteem needs, more specifically esteem for oneself, 
@@ -14,31 +14,17 @@ as reading books and keeping track of them gives them a feeling of accomplishmen
 By finding books to read and keeping track of them, users will be able to feel accomplished that they have gained knowledge.
 
 #### What are the traditional/current solution(s) to satisfy the needs?
-* The traditional solution to keep track of books people read is a “book log.” 
-In a very basic book log, readers can write the title of the book and the author, 
-in addition to a personal rating of the book and page numbers. 
-There are products such as a book log journal (e.g. [Book Lover's Journal Reading Organizer](https://www.amazon.com/Book-Lovers-Journal-Reading-Organizer/dp/1441304827/ref=sr_1_3?dchild=1&keywords=book+log&qid=1587935107&sr=8-3)), 
-where readers can keep track of the books they have in one place. 
-* In terms of finding books, according to a research conducted by Pew Research Center in 2011, 
-64% of those ages 16 and older said they get book recommendations by word of mouth, from family members, 
-friends, and co-workers. Other sources include online bookstores or other websites, 
-recommendations from staffers in bookstores, or librarians. (["Where People Discover and Get Their Books"](https://www.pewresearch.org/internet/2012/06/22/part-2-where-people-discover-and-get-their-books/)) 
+* The traditional solutions are all spread across different platforms. A myriad of options are available, but are difficult to utilize efficiently. Facebook marketplace exists for the purpose of ________. Clothing swap apps exist primarily in Europe for the purpose of _____, but none are prominant in the United States. The Green Globe app exists ____. Waze carpool offers services where they provide rides but does not allow the option for users to carpool using the cars they own.  
 
 #### What are the limitations that possibly would be improved with (digital) technology?
-* Limitations in keeping track of books may be forgetting to write down each time a user finishes a book. 
-In addition, having something like a book log journal may be tiresome, especially if people who travel often 
-do not want to carry around extra items. Thus, digital technology can improve portability and make it easier 
-for users to remember to keep track. 
-* When finding books, people can find books from a wider social circle through technology that would 
-allow them to find a diverse range of genres and topics. 
+* Limitations with the current solution include but are not limited to visibility, efficiency, barriers to entry different platforms, and more. Each platform comes with its existing issues. My design would improve upon these issues, while promoting sustainability head on, and address the detachment between services due to them being spread across different platforms. Furthermore, there is little education involved within this platforms, as the services themselves are sustainable, but users are not informed on the purposes behind these practices. My design will consolodate and improve on the aforementioned services while explicitly informing the consumer on proper sustainability practices.
 
 
 ## ✅ Step 2: Target Users
 
 #### What are the characteristics of users?
-* Demographics: students (high school, college undergraduates), working adults, and people who are college-educated
-* Preferences: users read as a hobby, or want to read for personal development, 
-and thus would want to keep track of books they read and get book recommendations
+* Demographics: students (college undergraduates, grad students), young adults aged 25-35 with professional careers, and people who are college-educated
+* Preferences: users participate in social activities/have some form of social media, users care about the environment in some capacity
 * Expertise: users would not need any particular level of expertise for this project
 
 #### Where would the users do that activity?
