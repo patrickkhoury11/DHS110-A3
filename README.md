@@ -28,20 +28,17 @@
 ## ✅ Step 2: Target Users
 
 #### What are the characteristics of users?
-* Demographics: students (college undergraduates, grad students), young adults aged 25-35 with professional careers, and people who are interested in sustainability in any capacity
+* Demographics: students (college undergraduates, grad students), young adults aged 25-35 with professional careers
+*  
 * Preferences: users participate in social activities/have some form of social media, users care about the environment in some capacity
 * Expertise: users would not need any particular level of expertise for this project
 
 #### Where would the users do that activity?
 * Users can participate in the aformentioned sustainable services in the traditional method through their mobile phone or by use of the internet. Certain services may not be available in particular locations, however the internet makes the majority of the services extremely easy to access and utilize. Some kind of account creation or monetary exchange are usually necessary, and the services are typically separated by the corporations which run these services (i.e. Facebook account is needed for facebook marketplace, Waze account is needed for Waze Carpool, Depop account and credit information is needed for Depop, etc.)
-* In my design, users can log into a singular community based app where all concerns would be addressed in the same place. All of the aforementioned services would be consolidated, and additional features allowing what they read anywhere at anytime, as long as they have their device.
-
+* In my design, users can log into a singular community based application where all concerns would be addressed in the same place. All of the aforementioned services would be consolidated, and additional features allowing what they read anywhere at anytime, as long as they have their device. 
 
 #### What would the users do to complete that activity?
-* The goal of the users would be to log a book they read. To do that, they would either physically write down 
-information about that book, or type it in a device to record information. To find a book to read, users may search online, 
-go to a library or bookstore to browse books on their own or ask the staff, or ask their friends or family 
-about book recommendations.
+* The goal of the users would be to receive some service whether it be a clothing exchange, carpooling, refurnishing old furnature, etc. Users would typically log into the separate service providers and complete an action or pay for the certain service. These users, whether they know it or not, are participating in environmental sustainability practices. My design would consolidate these services, educate the user about the environmental purposes behind each service, provide social events, and incentivize the practices through presenting the platform as a social media platform. 
 
 
 ## ✅ Step 3: Pick Research Methods
