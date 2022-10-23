@@ -29,7 +29,6 @@
 
 #### What are the characteristics of users?
 * Demographics: students (college undergraduates, grad students), young adults aged 25-35 with professional careers
-*  
 * Preferences: users participate in social activities/have some form of social media, users care about the environment in some capacity
 * Expertise: users would not need any particular level of expertise for this project
 
