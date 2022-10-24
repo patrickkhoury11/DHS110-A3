@@ -6,110 +6,111 @@
 ## ✅ Step 1: Specify the Main Design Challenge
 
 #### What is the main activity your project would support the users in accomplishing?  
-* This project will promote efficiency for user sustainability efforts through the consolidation of a a variety of environmental sustainability services, such as carpooling, thrifting/clothing swaps, furnature repurposing, sustainability events, etc into one app presented as a social-media platform. 
+* This project will promote efficiency and convenience for user sustainability efforts by consolidating a variety of environmentally-conscious activities and services into one mobile application, presented as a social media platform. The aforementioned activities and services would be geared towards target users’ needs and daily lifestyle; for example, including carpooling, thrifting/clothing swaps, furniture repurposing, sustainability events, etc. In this way, my project will mainly support users in gaining an environmentally-conscious community and lowering barriers to access for information about related activities and services. 
 
 #### What is the basic need involved for that activity? 
-* This activity fulfills a myriad of the user’s [psychological needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Transcendence_needs), which according to the creator of this philosophy, Maslow, drives behavioral motivation.
-* The first need this activity fufills is the foundation of the hierarchy, physiological needs. This is made up of the biological components for human survival. Clothing falls into this category, which is one service which will be consolidated in my design. Thrifting/clothing swaps offer a cheap and accessible way to get clothes, while being the best option in terms of sustainability. It keeps clothes out of landfills, reduces carbon and chemical pollution caused by clothing production, and lowers water consumption.
-* The second need this activity fufills is the need for belonging and love. This need is made up belonging and acceptance among social groups. The design I want to employ is a platform primarily presented as social-media network which consolidates sustainability services. Users would have a profile page and the option to follow their friends and others. Allowing location while the app is in use may allow for the details of relevant environmental activities in the user's area to be shown, encouraging the target users to go our and participate with existing friends or make new ones. This inherently creates social groups for the users to belong to and in turn fufills this sense of belonging and love. 
-* The third need this activity fufills is esteem need. This need is broken up into two facets: low and high esteem. Low esteem is made up of respect from others and may include a need for status, recognition, fame, prestige, and attention.  High esteem is made up of the need for self-respect, and can include a need for strength, competence, mastery, self-confidence, independence, and freedom. My design fufills both high and low esteem in users whom choses to participate. Low esteem is fufilled through the social media aspect, where users may post themselves at sustainability events which may result in recognition from peers. High esteem may be fufilled as reserarch suggests that doing good deeds (i.e. participating in sustainability practices) results in the release of endorphins and tend to lead to feelings of self-confidence and self-respect.
-* The fourth need this activity fufills is the cognitive need. This is made up of creativity, foresight, curiosity, and meaning. As previously stated, partaking in good deeds leads to a sense of meaning, fufilling this cognitive need.
-* The fifth need this activity fufills is the aesthetic need. This need is made up of having the ability to appreciate the beauty within the world around one's self, on a day-to-day basis. The purpose of sustainability practices is to conserve natural resources and protect global ecosystems to support health and wellbeing. This involves the conservation of ecosystems, air quality, integreity, and supporting health and wellbeing. 
-* The sixth and final need this activity fufills is the self-actualization need. This is made up of desire to accomplish everything that one can, to become the most that one can be. As previously mentioned, reserarch suggests that doing good deeds (i.e. participating in sustainability practices) results in the release of endorphins, dopamine, and serotonin. Participating in sustainability practies is an accomplishment in itself, and can help users fufill this self-actualization need.
+* This activity fulfills a myriad of the user’s [psychological needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Transcendence_needs), which according to the creator of this philosophy, Abraham Maslow, drives humans’ behavioral motivation in a manner consistent with a needs hierarchy that outlines the most basic needs required to be met before achieving more high-level needs.
+
+* The first basic need this activity fulfills is the foundation of the hierarchy: physiological needs. This foundation is made up of the biological components for human survival and includes the need for clothes, which will be incorporated in my project. Promoting easy access to posting and retrieving information about thrifting/clothing swaps would allow users to fulfill their psychological need for clothes, while being the best option for user sustainability and budget-friendly action. It keeps clothes out of landfills, reduces carbon and chemical pollution caused by clothing production, and lowers water consumption.
+
+* The second need this activity fulfills is the need for belonging and love. This level of human need involves interpersonal dynamics, and includes feeling of belongingness and acceptance among social groups. My project will be a platform primarily presented as a social-media network which consolidates sustainability services and allows for users to join a like-minded community. Users would have a profile page and the option to follow their friends and others. In addition, allowing location while the app is in use may allow for the details of relevant environmental activities in the user's area to be shown, encouraging the target users to go out and participate with existing friends or make new ones. As such, the project would function to create social groups for the users to belong to and in turn fulfill a users’ basic sense of belonging and love.
+
+* The third need this activity fulfills is the esteem need. This need is broken up into two facets: low and high esteem. Low esteem is made up of respect from others and may include a need for status, recognition, fame, prestige, and attention. High esteem is made up of the need for self-respect, and can include a need for strength, competence, mastery, self-confidence, independence, and freedom. My design fulfills both high and low esteem in users who choose to participate. Low esteem is fulfilled through the project’s social media aspect, where users may post themselves at sustainability events which may result in recognition from peers. High esteem may be fulfilled as research suggests that doing good deeds (i.e. participating in sustainability practices) results in the release of endorphins and tends to lead to feelings of self-confidence and self-respect.
+
+* The fourth need this activity fulfills is the cognitive need. This is made up of creativity, foresight, curiosity, and meaning. As previously stated, partaking in good deeds leads to a sense of meaning, in turn aiding to fulfill this cognitive need.
+
+* The fifth need this activity fulfills is the aesthetic need. This need is made up of having the ability to appreciate the beauty within the world around and within oneself, on a day-to-day basis. Ultimately, the purpose of sustainability practices is to conserve natural resources and protect global ecosystems to support health and wellbeing, as well as the inherent beauty of nature, which Maslow discusses as a key component of this need. This preservation and appreciation involves the conservation of ecosystems, air quality, integrity, and supporting health and wellbeing. My project would not only promote this end goal, but also provide a platform for users to learn and post about sustainability events as a mechanism for spending more time in, and appreciating, the natural world. The reflection of aesthetic need to oneself would also be addressed via the aforementioned clothing swap/thrifting function, allowing users to improve their physical appearance without compromising on their sustainability values. 
+
+* The sixth and final need this activity fulfills is the self-actualization need. This is made up of desire to accomplish everything that one can, to become the most that one can be. As previously mentioned, research suggests that doing good deeds (i.e. participating in sustainability practices) results in the release of endorphins, dopamine, and serotonin. Participating in sustainability practices is an accomplishment in itself, and can help users fulfill this self-actualization need.
+
 
 
 #### What are the traditional/current solution(s) to satisfy the needs?
-* The traditional solutions are all spread across different platforms. A myriad of options are available, but are difficult to utilize efficiently. Facebook marketplace exists for the purpose of helping individuals and businesses sell items locally. Clothing swap apps exist primarily in Europe for the purpose of to find new homes for the items you once treasured and give someone else's old treasures a new, happy home. The Green Globe program works with consumers, companies and communities to create a sustainable industry. Waze carpool offers services where they provide rides for people to carpool. 
+* Traditional solutions to user involvement in sustainability efforts are all spread across different platforms that attempt to promote and inform environmentally-conscious actions. A myriad of options are available to users, but are difficult to utilize efficiently. For example: Facebook Marketplace exists for the purpose of helping individuals and businesses sell items locally, including used furniture and clothing. Clothing swap and thrifting applications like Depop and Poshmark exist primarily for the purpose of finding new homes for the items users once treasured and giving someone else's old treasures a new, happy home. The Green Globe program works with consumers, companies and communities to create sustainable corporate industries. Waze Carpool offers services where they provide rides for people to carpool with others in the area that are heading to similar destinations. 
+
 
 #### What are the limitations that possibly would be improved with (digital) technology?
-* Limitations with the current solution include but are not limited to visibility, efficiency, barriers to entry different platforms, and more. Each platform comes with its existing issues. Facebook marketbplace requires users to create a facebook account and put in payment and shipping information. Clothing swap apps are prominant in Europe, but not the United States. There are not many Green Globe members due to the lengthy, difficult, and costly process. There are only 24 across the US, and they are not dispersed well, as most are concentrated in a few areas. Waze carpool does not allow the option for users to carpool using the cars they own. My design would improve upon these issues, while promoting sustainability head on, and address the detachment between services due to them being spread across different platforms. Furthermore, there is little education involved within this platforms, as the services themselves are sustainable, but users are not informed on the purposes behind these practices. My design will consolodate and improve on the aforementioned services while explicitly informing the consumer on proper sustainability practices.
+* Recent consumer insight research demonstrates that the public cares more about environmental issues now than ever before and feel personally [affected by climate change](https://globescan.com/2021/10/25/despite-record-levels-environmental-concerns-large-gap-remains-between-aspiration-and-action-sustainable-living/). This growing increase in concern is stifled by a marked gap between aspirations and action, especially with those under age 30. Ultimately, 47% of people claim that they would want to change their lifestyle “a great deal” in order to align with more environmentally-friendly practices, but only 23% of them report having followed through with this desire (Ibid.) In looking to rectify this aspiration-action gap, 34% of people have identified a lack of support from key stakeholders such as companies to make sustainable living (Ibid). 
+* As previously stated, much of our current solutions to promoting sustainable living exist across multiple, separate platforms, each with its existing issues. Limitations with the current solutions include pervasive issues with visibility, efficiency, convenience, and high barriers to entry. For example, Facebook Marketplace and “free and for sale” Facegroups require users to create a Facebook account, seek out and request membership to select interest groups, input payment and shipping information on Marketplace, etc. In addition, with applications like Facebook, there is no guarantee your account algorithm will show clothing / furniture postings in your feed -- such applications have come under fire for [promoting sensationalized content](https://www.businessinsider.com/facebook-employees-worrried-about-2018-algorithm-change-misinformation-trump-politics-2021-9), instead, to keep users engaged on their sites. Clothing swap and thrifting applications each also require downloading different apps, setting up an account and log in, and inputting payment and shipping information to each. There are not many Green Globe members due to the difficult and costly process of joining: there are only [24 members across the US](https://www.greenglobe.com/americas-members), and they are not dispersed well, as most are concentrated in a few areas. Waze Carpool does not allow the option for users to carpool using the cars they own, and availability for long-distance carpooling is especially limited. It is easy to see then, how current solutions spread across multiple platforms, can discourage users to engage in sustainable activities and seek out related information. This current set up is inefficient and not convenient to users -- ultimately contributing to the aspiration-action gap instead of solving it.
+* My design would improve upon these issues by serving as a single platform to access these services, thereby addressing the gap between aspiration and sustainable actions by mitigating the aforementioned issues with services being spread across different platforms. Instead of having to sign up for a great many applications and jump between different platforms, barriers to access will be lowered by having this project as the one application that is the convenient, go-to for multiple services. With my centralized application, users will be able to more efficiently gather the information necessary to make informed, sustainable choices and pursue action with less time and energy spent searching for them. Furthermore, there is little education involved within these platforms, as the services themselves are sustainable, but users are not informed on the purposes behind these practices. My design will consolidate and improve on the aforementioned services while informing the consumer on sustainability practices. Finally, the single platform will also function as a social media application that allows users to expand upon their sustainability practices by joining a like-minded community and viewing events local to their area and that their friends and family express interest in attending. 
 
 
 ## ✅ Step 2: Target Users
 
 #### What are the characteristics of users?
-* Demographics: students (college undergraduates, grad students), young adults aged 25-35 with professional careers
-* Preferences: users participate in social activities/have some form of social media, users care about the environment in some capacity
-* Expertise: users would not need any particular level of expertise for this project
+* Demographics: Secondary students (college undergraduates, graduate students) and young adult professionals, ages 25-35
+* Preferences: users participate in social activities/have some form of social media, users care about the environment in some capacity, users have conceivable self-agency and resources to make sustainable decisions
+* Expertise: users would not need any particular level of expertise for utilizing this project;  in fact, sustainability novices are welcome, as part of the platform goal is to make sustainable practices more convenient and information more accessible to the public.
 
 #### Where would the users do that activity?
-* Users can participate in the aformentioned sustainable services in the traditional method through their mobile phone or by use of the internet. Certain services may not be available in particular locations, however the internet makes the majority of the services extremely easy to access and utilize. Some kind of account creation or monetary exchange are usually necessary, and the services are typically separated by the corporations which run these services (i.e. Facebook account is needed for facebook marketplace, Waze account is needed for Waze Carpool, Depop account and credit information is needed for Depop, etc.)
-* In my design, users can log into a singular community based application where all concerns would be addressed in the same place. All of the aforementioned services would be consolidated, and additional features allowing what they read anywhere at anytime, as long as they have their device. 
+* Users can participate in the aforementioned sustainable services in the traditional method through their mobile phone or by use of the internet; however, certain applications may be geographically restricted to a particular service area.Some kind of account creation or monetary exchange are usually necessary, and the services are typically separated by the corporations which run these services (i.e. Facebook account is needed for facebook marketplace, Waze account is needed for Waze Carpool, Depop account and credit information is needed for Depop, etc.)
+* In my design, users can log into a singular community-based application where all concerns would be addressed on the same platform. All of the aforementioned services would be consolidated, and additional features allowing what they read anywhere at any time, as long as they have their mobile device.
 
 #### What would the users do to complete that activity?
-* The goal of the users would be to receive some service whether it be a clothing exchange, carpooling, refurnishing old furnature, etc. Users would typically log into the separate service providers and complete an action or pay for the certain service. These users, whether they know it or not, are participating in environmental sustainability practices. My design would consolidate these services, educate the user about the environmental purposes behind each service, provide social events, and incentivize the practices through presenting the platform as a social media platform. 
+* The goal of the users would be to receive some service whether it be a clothing exchange, carpooling, refurbishing old furniture, etc. Users would typically log into the separate service providers and complete an action or pay for the certain service. These users, whether they know it or not, are participating in environmental sustainability practices. Instead of multiple accounts, this application would only require a one-time download to their devices and a singular log-in. My design would consolidate these services, educate the user about the environmental purposes behind each service, provide information about social events, and incentivize the practices through presenting the platform as a social media platform. 
 
 
 ## ✅ Step 3: Pick Research Methods
 
 #### Methods
 * I decided to use a combination of two methods: participatory observation and interview. 
-  * For participatory observation, I observed 2 activities: logging a book by hand and finding a book to read in
-  the Amazon Kindle store.
-    * Logging a book by hand: I asked the user what a book log entry would look like, if she were to record the books she read.
-    * Finding a book in the Kindle store: I asked the user how she would find a book she wants to read from the website, and 
-    what she values when looking for a book to read.
-* Both were conducted in the user’s own home, by their desk where they feel most comfortable. 
-This would also be a place where they usually read books at home.
-* I used an iPhone to voice record the interview and a laptop camera to record the user task.
-* Because I could not find another in-person participant for these activity, unfortunately I had to ask the participant
-from my usability test to complete these activities.
+  * For participatory observation, I observed 2 activities: using Facebook Marketplace and Group functionalities to search for a Berkeley sweater and using a alternative medium to do the same thing.
+   * I asked the same questions after both activities: 
+   * 1. Were you able to complete all facets of the task that was asked of you within the one platform that you chose? 
+   * 2. How much time would you ideally like to spend on this task? How much time did you spend?
+   * I then followed up with additional questions:
+   * 1. How much time would you ideally like to spend on this task?
+   * 2. What was inconvenient about the platforms that you used in this scenario? What could be improved on?
+   * 3. What aspects of these platforms were satisfactory to you?
+   * 4. Would you prefer to have different platforms geared towards different aspects of sustainability, or to use one platform that encompasses multiple aspects? Why?
+   * 5. If you could design an application that helped you achieve your desired sustainability goals, what would you identify as 3 essential aspects of that platform?
+* This interview was were virtually, with the user in her own home, wherever she would usually utilize the platforms.
+* I used an iPhone to voice record the interview and screenrecord the participants screen.
+* My participant is my 23 year-old sister Nicole, a UC Berkeley Graduate Student.
 
 
 ## ✅ Step 4: Observation/Interview Guide
 
-* Please find the link to the interview script [here](https://docs.google.com/document/d/1i0znLajtlR_9z4bvBqKQ9ZvDezMEaCykXa7UDnbmnvY/edit?usp=sharing)
+* Please find the link to the interview script [here](https://docs.google.com/document/d/1QPfQWXPMzXl9E2fXMOAovRuSMaJa9g7O0WDWTOWb6Fk/edit?usp=sharing)
 
 
 ## ✅ Step 5: Conducting the Research
 
-* Please find the transcription of the whole interview and participatory observation [here](https://docs.google.com/document/d/1ntXiUR08Zort2SHEj1qfp0-OA8j3um7zz1YcoXGM_vE/edit?usp=sharing)
-* Below are the recordings and videos of the interview and participatory observation.
-  * [Contexual Interview: Background](https://drive.google.com/file/d/1i8xkxGMW0dNbgoQh6Y8oIw7sGe4HS3sP/view?usp=sharing)
-  * [Participatory Observation: Book Log Entry](https://drive.google.com/file/d/1a6Z54MJ6QVlY1PFlMVPBQbS5MiHW0VDS/view?usp=sharing)
-  * [Participatory Observation: Kindle Store](https://drive.google.com/file/d/1deuHFWOM8IM9smYEeMUHy1REGij0QI8q/view?usp=sharing)
-  * [Contextual Intervew: Other Questions & Closing](https://drive.google.com/file/d/1meUJAbnnbLskso-EQBxfQaAuH9I88YAC/view?usp=sharing)
+* Please find the transcription of the whole interview and participatory observation [here](https://docs.google.com/document/d/1TEHFJMbxHDMa4caLk5gfhdsyhDkP4oKTwsHAeU2aWzg/edit?usp=sharing)
+* Please find the audio and screen recording of the entire interview [here](https://docs.google.com/document/d/1C9hXo6Hce2_T8zoE4XTjb8e-wTPaS7CQsl0aEzcCDCU/edit?usp=sharing)
+
 
 * Some interesting insights from the interview:
-  * *Book logging as a creative outlet*
+  * *Turning aspiration into action*
   
-    > "Handwriting it out, I feel like, would be a creative outlet, 
-    like you can just lay it out however you’d like, use whatever pens you like, you know... I’d say it’s definitely 
-    therapeutic, i’d want to change the style of it, maybe change the font if I don’t like it, just yeah. 
-    I want it to be tailored to my kind of aesthetic or how I like it."
+    > "I think that the world is full of a lot of people that are trying to do good on behalf of the environment but unfortunately are really busy."
     
-    To this user, book logging would not just be an information dump, but a place to de-stress and journal creatively about
-    the book she read. It seems like she values the aesthetics and being able to tailor an entry to her own style.
+    The user believes that people aspire to live sustainably on behalf of the environment, however constraints due to lack of time interfere with these aspirations and prevent users from turning them into concrete actions. 
     
-  * *Not wanting to waste time when finding a book*
+  * *Lack of resource options*
   
-    > "I guess I don’t want to waste my time, so I really want to pick and choose something that I know that I would like."
+    > "I think that my resources for finding information are largely restricted to the internet and media that people post."
     
-    The user does not want to waste her time finding a book or reading a book she does not like, and thus would want a recommendation
-    that is reliable.
+    The user believes that there are certain limitations in finding sustainable information resources.
    
-  * *Sharing as a motivation for keeping track of books*
+  * *Issues with accessibility*
   
-    > "[I'd want to include] rating, so I could recommend it to others."
+    > "Certain influencers on Instagram or Youtube and other social media sites do a better job of making information more accessible and easily digestible to the public, but it’s still something that I have to specifically seek out creators on different platforms."
+
+    The user believes that influencers and social media sites themselves must do a better job of making the information more accessible and easily digestible to the public.
     
-    > *In response to "What would your motivation to record or keep track of the books be?":* 
-    "So, maybe I could recommend it to other people as well, and share it with other people."
+    > *Community based platform* 
+    "I hadn’t really thought about it before but I think it would be nice to have people in a community that could encourage you or share resources and stuff to help live more sustainably.
     
-    Part of the motivation to keep track of books the user has read seems like being able to share books with other people,
-    not just for personal records. Recording books is not just for the user's development or satisfaction, but also for 
-    social connection.
+    The user believes a community based incentive would be a nice addition to the traditional sustainablity efforts.
+"
+    
+    This interview shows that there are apparent issues facing the current sustainability efforts. The actions of the individuals are not meeting up with the aspirations held by many. Introducing a community aspect or making the services more accesible, and digestible would strongly benefit the effort.
 
 
 ## ✅ Step 6: Reflection
 
-* The contextual inquiry process felt a lot more fluid and natural than usability testing, most likely because this was more
-about *what, why,* and *how* a user does an activity and less about a particular product. Asking and observing the user gave
-me a lot of interesting insight. For example, I did not expect the user to want to log a book as a creative outlet. It was also
-interesting to find out that part of the motivation for recording books was to recommend them to other people. Unfortunately, I
-had to use the same participant as my usability test (due to stay-at-home orders because of COVID-19), but I was still able
-to find a lot of new perspectives about what a user is looking for when he/she is looking for a book and keeping track of it.
-Another difficulty was I was not sure if there was response bias. Because the participant had been a part of the usability 
-test and knew what kind of product I was examining, maybe she knew what kind of answers I wanted for these questions. In 
+* The contextual inquiry process felt a lot more fluid and natural than usability testing, most likely because this was more about *what, why,* and *how* a user does an activity and less about a particular product. Asking and observing the user gave me a lot of interesting insight. For example, I did not expect the user to want to log a book as a creative outlet. It was also interesting to find out that part of the motivation for recording books was to recommend them to other people. Unfortunately, I had to use the same participant as my usability test (due to stay-at-home orders because of COVID-19), but I was still able to find a lot of new perspectives about what a user is looking for when he/she is looking for a book and keeping track of it. Another difficulty was I was not sure if there was response bias. Because the participant had been a part of the usability test and knew what kind of product I was examining, maybe she knew what kind of answers I wanted for these questions. In 
 addition, some of my questions may have been biased and could have tried to lead the user to answer a certain way. For example, I
 gave examples of answers in my questions (e.g. "How would you judge a book? Do you look at the summary, the cover, the author...?"),
 which may have led to some biased answers. Next time, I want to be really aware of the questions I am asking to try to prevent
